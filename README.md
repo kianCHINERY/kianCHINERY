@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I'm a software developer passionate about creating
 
 Here are a few of my most recent projects:
 
-- **[VIN Data Processing]**: A tool to categorize VINs into correct, incorrect, and invalid categories. Expandable to support matrix changes and more car makes in the form of modules.
+- **[VIN Data Processing]**: A tool to categorize VINs into correct, incorrect, and invalid categories. Built to support matrix changes and be expandable, sorting car makes in the form of modules.
+- **[Flask Website Template]**: A template ro be used by my peers and i when refernecing and developing new web pages using flask. Built by compiling our collective knowlage into one repositry.
 
 ## 🌱 Currently Learning
 
